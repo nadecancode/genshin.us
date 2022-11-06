@@ -1,7 +1,6 @@
-import routes from "@/config/routes.ts";
+import routes from "@/config/routes";
 import Head from "next/head";
-import { API_URL } from "@/lib/url/index.ts";
-import Markdown from "@/component/markdown/index.tsx";
+import Markdown from "@/component/markdown";
 import { Card, Collapse, Text } from "@geist-ui/core";
 import dayjs from 'dayjs';
 import { NextSeo } from "next-seo";
