@@ -1,0 +1,1 @@
+export const WIKI_BASE_URL = "https://genshin-impact.fandom.com";
